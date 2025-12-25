@@ -35,10 +35,6 @@ This system streamlines HR operations, ensures data integrity, and supports real
  ## 📊 ER Diagram
 The ER diagram illustrates key relationships between employees, departments, payroll, qualifications, leave records, and salary structures in a normalized MySQL database.
 
-## 🔎 Sample Query Output
-![Query Output](screenshots/Query_output1.png)
-
-
 ## 🤝 Collaboration
 Developed with my team members **Greeshma, Sowmya, and Sangeetha**  
 Grateful to **Trainer Manohar Chary .V Sir**, **Program Manager Raghu Ram Aduri Sir**, **Placement Officer Sigilipelli Yeshwanth Sir**, and **Innomatics Research Labs** for their unwavering support and invaluable guidance throughout this project.
